@@ -1,5 +1,6 @@
-# BANA7075 Final Project
-GUI to operate multiple data scrapers and merge the data for ingestion.
+# BANA7075 Final Project - A data scraper and combiner to pull recent sales and real estate data for the Cincinnati area.
+
+py_GUI_Master_Controller - This GUI will automatically run all the scripts below on the last day of the month.  It also has an option to manuall initiate the scripts. Update the directories for the four python scripts listed below.
 
 Hamilton_Co_DLer - This script downloads a parcel IDs into a csv file from Hamilton Co. Auditor of the current Months sales.  It timestamps the file with the date/time it was downloaded.  Update the save_directory to align with other scripts.  
 

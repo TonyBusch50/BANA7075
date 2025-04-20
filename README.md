@@ -1,3 +1,5 @@
+V2  4/20/25
+
 # BANA7075 Final Project - A data scraper and combiner to pull recent sales and real estate data for the Cincinnati area.
 
 py_GUI_Master_Controller - This GUI will automatically run all the scripts below on the last day of the month.  It also has an option to manuall initiate the scripts. Update the directories for the four python scripts listed below.

@@ -1,8 +1,10 @@
 V2  4/20/25
 
-# BANA7075 Final Project - A data scraper and combiner to pull recent sales and real estate data for the Cincinnati area.
+# BANA7075 Final Project - Seller focused, Time-Based Real Estate Property Valuation Tool
 
 ML_Design_DecisionTree - This script ingests the csv file from below and runs it through the current model parameters. It will also log the experiment to the ML workflow for experiment tracking and visibility.
+
+py_GUI_Master_Controller, Hamilton_Co_DLer, Hamilton_Co_DLer, Hamilton_Scraper, Zip Extractor Data_Merger are all part of a data scraper and combiner to pull recent sales and real estate data for the Cincinnati area.
 
 py_GUI_Master_Controller - This GUI will automatically run all the scripts below on the last day of the month.  It also has an option to manuall initiate the scripts. Update the directories for the four python scripts listed below.
 

@@ -2,6 +2,8 @@ V2  4/20/25
 
 # BANA7075 Final Project - A data scraper and combiner to pull recent sales and real estate data for the Cincinnati area.
 
+ML_Design_DecisionTree - This script ingests the csv file from below and runs it through the current model parameters. It will also log the experiment to the ML workflow for experiment tracking and visibility.
+
 py_GUI_Master_Controller - This GUI will automatically run all the scripts below on the last day of the month.  It also has an option to manuall initiate the scripts. Update the directories for the four python scripts listed below.
 
 Hamilton_Co_DLer - This script downloads a parcel IDs into a csv file from Hamilton Co. Auditor of the current Months sales.  It timestamps the file with the date/time it was downloaded.  Update the save_directory to align with other scripts.  

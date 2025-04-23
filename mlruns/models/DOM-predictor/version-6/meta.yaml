@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745432953443
+current_stage: None
+description: ''
+last_updated_timestamp: 1745432953443
+name: DOM-predictor
+run_id: 1e65f2b7072b4a9a844c92a63b0fff20
+run_link: ''
+source: file:///C:/Users/schri/Desktop/BANA7075/mlruns/939418381702007546/1e65f2b7072b4a9a844c92a63b0fff20/artifacts/housing_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/schri/Desktop/BANA7075/mlruns/939418381702007546/1e65f2b7072b4a9a844c92a63b0fff20/artifacts/housing_model
+user_id: null
+version: 6

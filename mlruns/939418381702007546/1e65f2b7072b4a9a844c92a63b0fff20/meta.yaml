@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/schri/Desktop/BANA7075/mlruns/939418381702007546/1e65f2b7072b4a9a844c92a63b0fff20/artifacts
+end_time: 1745432953473
+entry_point_name: ''
+experiment_id: '939418381702007546'
+lifecycle_stage: active
+run_id: 1e65f2b7072b4a9a844c92a63b0fff20
+run_name: resilient-newt-220
+run_uuid: 1e65f2b7072b4a9a844c92a63b0fff20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745432946597
+status: 3
+tags: []
+user_id: schrimkp

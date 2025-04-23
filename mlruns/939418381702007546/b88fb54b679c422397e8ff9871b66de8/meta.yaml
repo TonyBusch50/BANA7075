@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/schri/Desktop/BANA7075/mlruns/939418381702007546/b88fb54b679c422397e8ff9871b66de8/artifacts
+end_time: 1745426943927
+entry_point_name: ''
+experiment_id: '939418381702007546'
+lifecycle_stage: active
+run_id: b88fb54b679c422397e8ff9871b66de8
+run_name: carefree-moose-989
+run_uuid: b88fb54b679c422397e8ff9871b66de8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745426936739
+status: 3
+tags: []
+user_id: schrimkp

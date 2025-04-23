@@ -1,0 +1,38 @@
+artifact_path: housing_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+is_signature_from_type_hint: false
+mlflow_version: 2.21.3
+model_size_bytes: 63143
+model_uuid: 5524b176fed0429ea15235f5e23e0b03
+prompts: null
+run_id: 532731c586984d17817769bdd6e25d28
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "saleamount", "required": true}, {"type": "double",
+    "name": "AgeofHome", "required": true}, {"type": "double", "name": "Bedrooms",
+    "required": true}, {"type": "double", "name": "Bathrooms", "required": true},
+    {"type": "double", "name": "Acreage", "required": true}, {"type": "double", "name":
+    "Basement_Type_Full_Basement", "required": true}, {"type": "double", "name": "Basement_Type_Full_Crawl",
+    "required": true}, {"type": "double", "name": "Basement_Type_Part_Basement", "required":
+    true}, {"type": "double", "name": "Basement_Type_Part_Crawl", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-04-23 17:01:15.963456'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/schri/Desktop/BANA7075/mlruns/939418381702007546/1cebde991c1742c6a770d48d558944dc/artifacts
+end_time: 1745425966530
+entry_point_name: ''
+experiment_id: '939418381702007546'
+lifecycle_stage: active
+run_id: 1cebde991c1742c6a770d48d558944dc
+run_name: blushing-bass-224
+run_uuid: 1cebde991c1742c6a770d48d558944dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745425959581
+status: 3
+tags: []
+user_id: schrimkp
